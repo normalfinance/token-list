@@ -1,9 +1,9 @@
 {
-  "name": "Assets curated by Soroswap Protocol",
-  "provider": "Soroswap Protocol",
-  "description": "The list of assets curated by Soroswap Protocol",
-  "version": "1.2.8",
-  "feedback": "https://github.com/soroswap/token-list",
+  "name": "Assets curated by the Normal Protocol",
+  "provider": "Normal Protocol",
+  "description": "The list of assets curated by the Normal Protocol",
+  "version": "1.0.0",
+  "feedback": "https://github.com/normalfinance/token-list",
   "network": "mainnet",
   "assets": [
     {
