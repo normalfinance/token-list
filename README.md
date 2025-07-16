@@ -1,12 +1,12 @@
-# Soroswap Token List
+# Normal Token List
 
-Welcome to the official repository for the Soroswap token list. This list is essential for validating swap paths on the Soroswap Automated Market Maker (AMM) protocol on Soroban. By adhering to this list, we ensure a trusted and secure environment for all swaps conducted through Soroswap.
+Welcome to the official repository for the Normal token list. This list is essential for validating swap paths on the Normal Automated Market Maker (AMM) protocol on Soroban. By adhering to this list, we ensure a trusted and secure environment for all swaps conducted through Normal.
 
 Please contact us on Discord after you have created a PR! :)
 
 ## Adding Your Token to the List
 
-To include your token in the Soroswap token list, ensure your token adheres to the following structure. Fields marked with an asterisk (*) are optional and can be omitted if not applicable to your token.
+To include your token in the Normal token list, ensure your token adheres to the following structure. Fields marked with an asterisk (*) are optional and can be omitted if not applicable to your token.
 
 ### Token Information Structure
 
@@ -23,7 +23,7 @@ To include your token in the Soroswap token list, ensure your token adheres to t
 }
 ```
 
-Ensure your token's details are correctly formatted according to the structure above when creating your JSON file. This structured approach helps streamline the inclusion process and maintain the integrity of the Soroswap ecosystem.
+Ensure your token's details are correctly formatted according to the structure above when creating your JSON file. This structured approach helps streamline the inclusion process and maintain the integrity of the Normal ecosystem.
 
 ### Step-by-Step Guide
 
@@ -87,6 +87,6 @@ Currently the Public Key is `GBHYCV7DRS3GTFZYTW4MTHMBKRJJSZKV7LSCAERQQKUHZRYBW34
 
 ## Questions or Concerns?
 
-For questions or further clarification, feel free to open an issue in this repository. We're here to help ensure a smooth integration process for your token into the Soroswap ecosystem.
+For questions or further clarification, feel free to open an issue in this repository. We're here to help ensure a smooth integration process for your token into the Normal ecosystem.
 
-Thank you for contributing to Soroswap!
+Thank you for contributing to Normal!
