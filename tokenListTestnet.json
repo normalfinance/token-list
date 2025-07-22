@@ -1,0 +1,20 @@
+{
+  "name": "Assets curated by the Normal Protocol",
+  "provider": "Normal Protocol",
+  "description": "The list of assets curated by the Normal Protocol",
+  "version": "1.0.0",
+  "feedback": "https://github.com/normalfinance/token-list",
+  "network": "testnet",
+  "assets": [
+    {
+      "code": "USDC",
+      "issuer": "GBBD47IF6LWK7P7MDEVSCWR7DPUWV3NY3DTQEVFL4NAT4AQH3ZLLFLA5",
+      "contract": "CBIELTK6YBZJU5UP2WWQEUCYKLPU6AUNZ2BQ4WWFEIE3USCIHMXQDAMA",
+      "name": "USD Coin",
+      "org": "Centre Consortium LLC",
+      "domain": "centre.io",
+      "icon": "https://ipfs.io/ipfs/bafkreibpzncuhbk5ozhdw7xkcdoyf3xhwhcwcf6sj7axjzimxw6vm6pvyy",
+      "decimals": 7
+    }
+  ]
+}
