@@ -7,13 +7,23 @@
   "network": "testnet",
   "assets": [
     {
+      "code": "XLM",
+      "issuer": "GATALTGTWIOT6BUDBCZM3Q4OQ4BO2COLOAZ7IYSKPLC2PMSOPPGF5V56",
+      "contract": "CDLZFC3SYJYDZT7K67VZ75HPJVIEUVNIXF47ZG2FB2RMQQVU2HHGCYSC",
+      "name": "Stellar Lumens",
+      "org": "Stellar",
+      "domain": "stellar.org",
+      "icon": "/assets/icons/crypto-icons/XLM.webp",
+      "decimals": 7
+    },
+    {
       "code": "USDC",
       "issuer": "GBBD47IF6LWK7P7MDEVSCWR7DPUWV3NY3DTQEVFL4NAT4AQH3ZLLFLA5",
       "contract": "CBIELTK6YBZJU5UP2WWQEUCYKLPU6AUNZ2BQ4WWFEIE3USCIHMXQDAMA",
       "name": "USD Coin",
       "org": "Centre Consortium LLC",
       "domain": "centre.io",
-      "icon": "https://ipfs.io/ipfs/bafkreibpzncuhbk5ozhdw7xkcdoyf3xhwhcwcf6sj7axjzimxw6vm6pvyy",
+      "icon": "/assets/icons/crypto-icons/USDC.webp",
       "decimals": 7
     }
   ]
