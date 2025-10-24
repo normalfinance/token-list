@@ -13,7 +13,7 @@
       "name": "Stellar Lumens",
       "org": "Stellar",
       "domain": "stellar.org",
-      "icon": "https://www.normalfinance.io/assets/icons/crypto-icons/XLM.webp",
+      "icon": "https://cdn.normalapi.com/tokens/XLM.webp",
       "decimals": 7,
       "featured": true
     },

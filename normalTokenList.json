@@ -13,7 +13,7 @@
       "name": "Normal Bitcoin",
       "org": "Normal",
       "domain": "normalfinance.io",
-      "icon": "https://www.normalfinance.io/assets/icons/crypto-icons/nBTC.webp",
+      "icon": "https://cdn.normalapi.com/tokens/normal/nBTC.webp",
       "decimals": 7,
       "featured": true
     },
@@ -24,7 +24,7 @@
       "name": "Normal Solana",
       "org": "Normal",
       "domain": "normalfinance.io",
-      "icon": "https://www.normalfinance.io/assets/icons/crypto-icons/nSOL.webp",
+      "icon": "https://cdn.normalapi.com/tokens/normal/nSOL.webp",
       "decimals": 7,
       "featured": true
     }
