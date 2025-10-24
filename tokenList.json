@@ -7,7 +7,7 @@
   "network": "mainnet",
   "assets": [
     {
-      "code": "AQUA",
+      "symbol": "AQUA",
       "issuer": "GBNZILSTVQZ4R7IKQDGHYGY2QXL5QOFJYQMXPKWRRM5PAV7Y4M67AQUA",
       "contract": "CAUIKL3IYGMERDRUN6YSCLWVAKIFG5Q4YJHUKM4S4NJZQIA3BAS6OJPK",
       "name": "AQUA Token",
@@ -18,7 +18,7 @@
       "featured": false
     },
     {
-      "code": "XRF",
+      "symbol": "XRF",
       "issuer": "GCHI6I3X62ND5XUMWINNNKXS2HPYZWKFQBZZYBSMHJ4MIP2XJXSZTXRF",
       "contract": "CBLLEW7HD2RWATVSMLAGWM4G3WCHSHDJ25ALP4DI6LULV5TU35N2CIZA",
       "name": "Reflector xRF",
@@ -29,7 +29,7 @@
       "featured": false
     },
     {
-      "code": "USDC",
+      "symbol": "USDC",
       "issuer": "GA5ZSEJYB37JRC5AVCIA5MOP4RHTM335X2KGX3IHOJAPP5RE34K4KZVN",
       "contract": "CCW67TSZV3SSS2HXMBQ5JFGCKJNXKZM7UQUWUZPUTHXSTZLEO7SJMI75",
       "name": "USD Coin",
@@ -40,7 +40,7 @@
       "featured": false
     },
     {
-      "code": "EURC",
+      "symbol": "EURC",
       "issuer": "GDHU6WRG4IEQXM5NZ4BMPKOXHW76MZM4Y2IEMFDVXBSDP6SJY4ITNPP2",
       "contract": "CDTKPWPLOURQA2SGTKTUQOWRCBZEORB4BWBOMJ3D3ZTQQSGE5F6JBQLV",
       "name": "Euro Coin",
@@ -51,7 +51,7 @@
       "featured": false
     },
     {
-      "code": "BLND",
+      "symbol": "BLND",
       "issuer": "GDJEHTBE6ZHUXSWFI642DCGLUOECLHPF3KSXHPXTSTJ7E3JF6MQ5EZYY",
       "contract": "CD25MNVTZDL4Y3XBCPCJXGXATV5WUHHOWMYFF4YBEGU5FCPGMYTVG5JY",
       "name": "Blend",
@@ -62,7 +62,7 @@
       "featured": false
     },
     {
-      "code": "KALE",
+      "symbol": "KALE",
       "issuer": "GBDVX4VELCDSQ54KQJYTNHXAHFLBCA77ZY2USQBM4CSHTTV7DME7KALE",
       "contract": "CB23WRDQWGSP6YPMY4UV5C4OW5CBTXKYN3XEATG7KJEZCXMJBYEHOUOV",
       "name": "Kale",
@@ -73,7 +73,7 @@
       "featured": false
     },
     {
-      "code": "yXLM",
+      "symbol": "yXLM",
       "issuer": "GARDNV3Q7YGT4AKSDF25LT32YSCCW4EV22Y2TV3I2PU2MMXJTEDL5T55",
       "contract": "CBZVSNVB55ANF24QVJL2K5QCLOAB6XITGTGXYEAF6NPTXYKEJUYQOHFC",
       "name": "Kale",

@@ -7,7 +7,7 @@
   "network": "mainnet",
   "assets": [
     {
-      "code": "nBTC",
+      "symbol": "nBTC",
       "issuer": "GBPH7PWUDCTRDTC2GIEKSLINSNE754FGO26RIX5B7F6DDRNLG6MKOTDW",
       "contract": "CCUE2TFP3NDNECT4WY73QWEUNPHNGI6P77B6BVCL6EEZD26YMHY4WEGW",
       "name": "Normal Bitcoin",
@@ -18,7 +18,7 @@
       "featured": true
     },
     {
-      "code": "nETH",
+      "symbol": "nETH",
       "issuer": "GBPH7PWUDCTRDTC2GIEKSLINSNE754FGO26RIX5B7F6DDRNLG6MKOTDW",
       "contract": "",
       "name": "Normal Ethereum",
@@ -29,7 +29,7 @@
       "featured": true
     },
     {
-      "code": "nSOL",
+      "symbol": "nSOL",
       "issuer": "GBPH7PWUDCTRDTC2GIEKSLINSNE754FGO26RIX5B7F6DDRNLG6MKOTDW",
       "contract": "CC3HDXOCIMP2NMLNHPYYFMEKLJRYSSSX57BLCBQ4XTIDXAO6GZWP36XB",
       "name": "Normal Solana",
