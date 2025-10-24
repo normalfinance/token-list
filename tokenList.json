@@ -14,7 +14,8 @@
       "org": "Aquarius dba AQUA token",
       "domain": "aqua.network",
       "icon": "https://ipfs.io/ipfs/bafkreigzckkixvbkru2gzve67zu3bfauccugkr6zovkdv6h2yxxrppyyqa",
-      "decimals": 7
+      "decimals": 7,
+      "featured": false
     },
     {
       "code": "XRF",
@@ -24,7 +25,8 @@
       "org": "Reflector",
       "domain": "reflector.network",
       "icon": "https://reflector.network/favicon-32x32.png",
-      "decimals": 7
+      "decimals": 7,
+      "featured": false
     },
     {
       "code": "USDC",
@@ -34,7 +36,19 @@
       "org": "Centre Consortium LLC",
       "domain": "centre.io",
       "icon": "https://ipfs.io/ipfs/bafkreibpzncuhbk5ozhdw7xkcdoyf3xhwhcwcf6sj7axjzimxw6vm6pvyy",
-      "decimals": 7
+      "decimals": 7,
+      "featured": false
+    },
+    {
+      "code": "EURC",
+      "issuer": "GDHU6WRG4IEQXM5NZ4BMPKOXHW76MZM4Y2IEMFDVXBSDP6SJY4ITNPP2",
+      "contract": "CDTKPWPLOURQA2SGTKTUQOWRCBZEORB4BWBOMJ3D3ZTQQSGE5F6JBQLV",
+      "name": "Euro Coin",
+      "org": "Centre Consortium LLC",
+      "domain": "centre.io",
+      "icon": "https://ipfs.io/ipfs/bafkreibpzncuhbk5ozhdw7xkcdoyf3xhwhcwcf6sj7axjzimxw6vm6pvyy",
+      "decimals": 7,
+      "featured": false
     },
     {
       "code": "BLND",
@@ -44,7 +58,30 @@
       "org": "Blend Protocol",
       "domain": "blend.capital",
       "icon": "https://stellar.myfilebase.com/ipfs/QmaDc2ArxQom1bFkE7JsqqZ2VdThvLV2GTRimaeJcpxU8L",
-      "decimals": 7
+      "decimals": 7,
+      "featured": false
+    },
+    {
+      "code": "KALE",
+      "issuer": "GBDVX4VELCDSQ54KQJYTNHXAHFLBCA77ZY2USQBM4CSHTTV7DME7KALE",
+      "contract": "CB23WRDQWGSP6YPMY4UV5C4OW5CBTXKYN3XEATG7KJEZCXMJBYEHOUOV",
+      "name": "Kale",
+      "org": "Kale",
+      "domain": "kalepail.com",
+      "icon": "",
+      "decimals": 7,
+      "featured": false
+    },
+    {
+      "code": "yXLM",
+      "issuer": "GARDNV3Q7YGT4AKSDF25LT32YSCCW4EV22Y2TV3I2PU2MMXJTEDL5T55",
+      "contract": "CBZVSNVB55ANF24QVJL2K5QCLOAB6XITGTGXYEAF6NPTXYKEJUYQOHFC",
+      "name": "Kale",
+      "org": "UltraCapital",
+      "domain": "ultracapital.xyz",
+      "icon": "",
+      "decimals": 7,
+      "featured": false
     }
   ]
 }
