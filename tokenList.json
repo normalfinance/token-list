@@ -7,6 +7,17 @@
   "network": "mainnet",
   "assets": [
     {
+      "symbol": "XLM",
+      "issuer": "",
+      "contract": "CAS3J7GYLGXMF6TDJBBYYSE3HQ6BBSMLNUQ34T6TZMYMW2EVH34XOWMA",
+      "name": "Stellar Lumens",
+      "org": "Stellar",
+      "domain": "stellar.org",
+      "icon": "https://www.normalfinance.io/assets/icons/crypto-icons/XLM.webp",
+      "decimals": 7,
+      "featured": true
+    },
+    {
       "symbol": "AQUA",
       "issuer": "GBNZILSTVQZ4R7IKQDGHYGY2QXL5QOFJYQMXPKWRRM5PAV7Y4M67AQUA",
       "contract": "CAUIKL3IYGMERDRUN6YSCLWVAKIFG5Q4YJHUKM4S4NJZQIA3BAS6OJPK",
@@ -37,7 +48,7 @@
       "domain": "centre.io",
       "icon": "https://ipfs.io/ipfs/bafkreibpzncuhbk5ozhdw7xkcdoyf3xhwhcwcf6sj7axjzimxw6vm6pvyy",
       "decimals": 7,
-      "featured": false
+      "featured": true
     },
     {
       "symbol": "EURC",
