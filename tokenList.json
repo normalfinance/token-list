@@ -73,14 +73,15 @@
       "featured": false
     },
     {
-      "code": "CETES",
+      "symbol": "CETES",
       "issuer": "GCRYUGD5NVARGXT56XEZI5CIFCQETYHAPQQTHO2O3IQZTHDH4LATMYWC",
       "contract": "CAL6ER2TI6CTRAY6BFXWNWA7WTYXUXTQCHUBCIBU5O6KM3HJFG6Z6VXV",
       "name": "Etherfuse CETES",
       "org": "Etherfuse",
       "domain": "etherfuse.com",
       "icon": "https://cdn.normalapi.com/tokens/CETES.webp",
-      "decimals": 7
+      "decimals": 7,
+      "featured": false
     },
     {
       "symbol": "KALE",
@@ -105,54 +106,59 @@
       "featured": false
     },
     {
-      "code": "oUSD",
+      "symbol": "oUSD",
       "issuer": "GBIWJGAOSFC4KUPHXM573TKTWHMI7VW7D4GCHYZYH243Q6HVBV7ORBIT",
       "contract": "CBZPEXQLJCGUYTAQRQ4FGCXUV5O4TZER5WSOMCGNDNIIO4EJ4FU5GQNZ",
       "name": "Orbit USD",
       "org": "Orbit CDP",
       "domain": "orbitcdp.finance",
       "icon": "https://cdn.normalapi.com/tokens/oUSD.webp",
-      "decimals": 7
+      "decimals": 7,
+      "featured": false
     },
     {
-      "code": "USDx",
+      "symbol": "USDx",
       "issuer": "GAVH5ZWACAY2PHPUG4FL3LHHJIYIHOFPSIUGM2KHK25CJWXHAV6QKDMN",
       "contract": "CDIKURWHYS4FFTR5KOQK6MBFZA2K3E26WGBQI6PXBYWZ4XIOPJHDFJKP",
       "name": "Decentralized USD Coin",
       "org": "FxDAO LLC",
       "domain": "fxdao.io",
       "icon": "https://cdn.normalapi.com/tokens/USDx.webp",
-      "decimals": 7
+      "decimals": 7,
+      "featured": false
     },
     {
       "name": "yETH By Ultra Capital",
-      "code": "yETH",
+      "symbol": "yETH",
       "issuer": "GDYQNEF2UWTK4L6HITMT53MZ6F5QWO3Q4UVE6SCGC4OMEQIZQQDERQFD",
       "contract": "CDYEOOVL6WV4JRY45CXQKOBJFFAPOM5KNQCCDNM333L6RM2L4RO3LKYG",
       "org": "Ultra Capital LLC",
       "domain": "ultracapital.xyz",
       "icon": "https://cdn.normalapi.com/tokens/yETH.webp",
-      "decimals": 7
+      "decimals": 7,
+      "featured": false
     },
     {
       "name": "Ondo U.S. Dollar Yield",
-      "code": "USDY",
+      "symbol": "USDY",
       "issuer": "GAJMPX5NBOG6TQFPQGRABJEEB2YE7RFRLUKJDZAZGAD5GFX4J7TADAZ6",
       "contract": "CB3YA656OYIHU57657I5KGSBRHE5I3OZU4VFC22PYAOANFZHEWNYGAGP",
       "org": "Ondo Finance",
       "domain": "ondo.finance",
       "icon": "https://cdn.normalapi.com/tokens/USDY.webp",
-      "decimals": 7
+      "decimals": 7,
+      "featured": false
     },
     {
       "name": "yBTC by Ultra Capital",
-      "code": "yBTC",
+      "symbol": "yBTC",
       "issuer": "GBUVRNH4RW4VLHP4C5MOF46RRIRZLAVHYGX45MVSTKA2F6TMR7E7L6NW",
       "contract": "CB2XMFB6BDIHFOSFB5IXHDOYV3SI3IXMNIZLPDZHC7ENDCXSBEBZAO2Y",
       "org": "Ultra Capital LLC",
       "domain": "ultracapital.xyz",
       "icon": "yBTC",
-      "decimals": 7
+      "decimals": 7,
+      "featured": false
     }
   ]
 }
