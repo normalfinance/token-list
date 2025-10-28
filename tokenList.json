@@ -156,7 +156,7 @@
       "contract": "CB2XMFB6BDIHFOSFB5IXHDOYV3SI3IXMNIZLPDZHC7ENDCXSBEBZAO2Y",
       "org": "Ultra Capital LLC",
       "domain": "ultracapital.xyz",
-      "icon": "yBTC",
+      "icon": "https://cdn.normalapi.com/tokens/yBTC.webp",
       "decimals": 7,
       "featured": false
     }
