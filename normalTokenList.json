@@ -18,6 +18,17 @@
       "featured": true
     },
     {
+      "symbol": "nETH",
+      "issuer": "GBPH7PWUDCTRDTC2GIEKSLINSNE754FGO26RIX5B7F6DDRNLG6MKOTDW",
+      "contract": "CDDY3K5QNZUKO254MADCUMUPEVIK64I2VW4VLZNHND6W467UMBUP2YII",
+      "name": "Normal Ethereum",
+      "org": "Normal",
+      "domain": "normalfinance.io",
+      "icon": "https://cdn.normalapi.com/tokens/normal/nETH.webp",
+      "decimals": 7,
+      "featured": true
+    },
+    {
       "symbol": "nSOL",
       "issuer": "GBPH7PWUDCTRDTC2GIEKSLINSNE754FGO26RIX5B7F6DDRNLG6MKOTDW",
       "contract": "CC3HDXOCIMP2NMLNHPYYFMEKLJRYSSSX57BLCBQ4XTIDXAO6GZWP36XB",
