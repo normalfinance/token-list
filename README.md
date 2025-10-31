@@ -12,7 +12,7 @@ To include your token in the Normal token list, ensure your token adheres to the
 
 ```plaintext
 {
-  "code": "string;                 // The code representing your token.
+  "symbol": "string;                 // The code representing your token.
   "issuer": "string?",             // The issuer's account address (optional).
   "contract": "string;             // The contract address for your token.
   "name": "string?",               // The name of your token (optional).
@@ -20,6 +20,7 @@ To include your token in the Normal token list, ensure your token adheres to the
   "domain": "string?",             // The website for your token or organization (optional).
   "icon": "string;                 // A URL to the token's icon.
   "decimals": number;              // The number of decimals for your token. (7)
+  "featured": boolean;             // ...
 }
 ```
 

@@ -1,5 +1,5 @@
 {
-  "name": "@normalfinance./token-list",
+  "name": "@normalfinance/token-list",
   "version": "1.0.0",
   "description": "Normal Token List",
   "main": "scripts/index.js",

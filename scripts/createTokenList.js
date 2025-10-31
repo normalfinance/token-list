@@ -8,7 +8,7 @@ const assetSchema = {
   "properties": {
     "name": { "type": "string", "maxLength": 30, "minLength": 4 },
     "contract": { "type": "string", "pattern": "^C[A-Z0-9]{55}$" },
-    "code": { "type": "string", "pattern": "^[A-Za-z0-9]{1,12}$" },
+    "symbol": { "type": "string", "pattern": "^[A-Za-z0-9]{1,12}$" },
     "issuer": { "type": "string", "pattern": "^G[A-Z0-9]{55}$" },
     "org": { "type": "string", "maxLength": 30, "minLength": 5 },
     "domain": { "type": "string", "pattern": "^(?:[a-z0-9](?:[a-z0-9-]{0,61}[a-z0-9])?\\.)+[a-z0-9][a-z0-9-]{0,61}[a-z0-9]$" },
@@ -25,7 +25,7 @@ const assetSchema = {
   "required": ["name", "org"],
   "anyOf": [
     { "required": ["contract"] },
-    { "required": ["code", "issuer"] }
+    { "required": ["symbol", "issuer"] }
   ],
   "additionalProperties": false
 };
